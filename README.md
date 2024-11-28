@@ -18,10 +18,10 @@ I'm passionate about using machine learning to solve real-world problems and con
     - Sentiment Analysis, Stock Prediction, Classification & Regression models  
 
 ### 🧑‍💻 **Projects**  
-- 📊 [**Stock Prediction Using Random Forest**](https://github.com/yourusername/Stock predictor)  
+- 📊 [**Stock Prediction Using Random Forest**](https://github.com/Pradheesh0001/Stock predictor)  
   Predict stock prices using Random Forest models. Includes data preprocessing, feature engineering, and model evaluation.  
 
-- 😊 [**Tweet Sentiment Analysis**](https://github.com/yourusername/Sentiment analysis)  
+- 😊 [**Tweet Sentiment Analysis**](https://github.com/Pradheesh0001/Sentiment analysis)  
   Analyzes sentiment (positive, negative, neutral) in tweets using the Naive Bayes algorithm and performs data cleaning, visualization, and model building.  
 
 - 🌡️ [**Temperature Forecasting Using ML**](https://github.com/Pradheesh 0001/Temperature predictior)  
