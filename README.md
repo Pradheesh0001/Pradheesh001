@@ -19,7 +19,7 @@ I'm passionate about using machine learning to solve real-world problems and con
     - Sentiment Analysis, Stock Prediction, Fraud Detection, Classification & Regression models  
 
 ### 🧑‍💻 **Projects**  
-- 📊 [**Stock Prediction Using Random Forest**](https://github.com/Pradheesh001/Stock-predictor)  
+- 📊 [**Stock Prediction Using Random Forest**](https://github.com/Pradheesh0001/PradheeshAI/blob/main/RIL%20STOCK%20PREDICT.ipynb)  
   Predict stock prices using Random Forest models. Includes data preprocessing, feature engineering, and model evaluation.  
 
 - 😊 [**Tweet Sentiment Analysis**](https://github.com/Pradheesh001/Sentiment-analysis)  
