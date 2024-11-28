@@ -26,7 +26,9 @@ I'm passionate about using machine learning to solve real-world problems and con
 
 - 🌡️ [**Temperature Forecasting Using ML**](https://github.com/Pradheesh 0001/Temperature predictior)  
   Predicts temperature trends using Random Forest Regressor with real-world weather data for accurate forecasting.  
-
+  [** Fraud predicting Using ML**]  (https://github.com/Pradheesh0001/http:/localhost:8888/lab/tree/Fraud%20Detector.ipynb)
+  Fraud analysis using LogisticsRegression/RandomForestRegression with real-world data 
+  
 ### 📬 **Connect with Me**  
 - [LinkedIn](https://www.linkedin.com/in/pradheesh-s-5b0150137?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - [Email Me](pradheesh0001@gnail.com)
