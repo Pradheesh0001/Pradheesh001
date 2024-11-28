@@ -25,7 +25,7 @@ I'm passionate about using machine learning to solve real-world problems and con
 - 😊 [**Tweet Sentiment Analysis**](https://github.com/Pradheesh0001/PradheeshAI/blob/main/sentiment%20analysis.ipynb)  
   Analyzes sentiment (positive, negative, neutral) in tweets using the Naive Bayes algorithm and performs data cleaning, visualization, and model building.  
 
-- 🌡️ [**Temperature Forecasting Using ML**](https://github.com/Pradheesh001/Temperature-predictor)  
+- 🌡️ [**Temperature Forecasting Using ML**](https://github.com/Pradheesh0001/PradheeshAI/blob/main/Temprature%20predict_project-1.ipynb)  
   Predicts temperature trends using Random Forest Regressor with real-world weather data for accurate forecasting.  
 
 - 🔍 [**Fraud Analysis Using ML**](https://github.com/Pradheesh0001/PradheeshAI/blob/main/Fraud%20Detector.ipynb)  
