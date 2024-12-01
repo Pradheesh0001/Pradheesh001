@@ -22,7 +22,7 @@ I'm passionate about using machine learning to solve real-world problems and con
 - 📊 [**Stock Prediction Using Random Forest**](https://github.com/Pradheesh0001/PradheeshAI/blob/main/RIL%20STOCK%20PREDICT.ipynb)  
   Predict stock prices using Random Forest models. Includes data preprocessing, feature engineering, and model evaluation.  
 
-- 😊 [**Tweet Sentiment Analysis**](https://github.com/Pradheesh0001/PradheeshAI/blob/main/sentiment%20analysis.ipynb)  
+- 😊 [**Tweet Sentiment Analysis**](https://github.com/Pradheesh0001/PradheeshAI/blob/main/Updated%20Sentiment.ipynb)  
   Analyzes sentiment (positive, negative, neutral) in tweets using the Naive Bayes algorithm and performs data cleaning, visualization, and model building.  
 
 - 🌡️ [**Temperature Forecasting Using ML**](https://github.com/Pradheesh0001/PradheeshAI/blob/main/Temprature%20predict_project-1.ipynb)  
